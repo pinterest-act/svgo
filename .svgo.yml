@@ -50,7 +50,6 @@ plugins:
   - removeEmptyContainers
   - mergePaths
   - removeUnusedNS
-  - sortAttrs
   - removeTitle
   - removeDesc
   - removeDimensions
@@ -60,6 +59,8 @@ plugins:
   - removeStyleElement
   - removeScriptElement
   - addAttributesToSVGElement
+  - addAttributesToPathElement
+  - sortAttrs
 
 # configure the indent (default 4 spaces) used by `--pretty` here:
 #

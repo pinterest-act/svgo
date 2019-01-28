@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <path display="none" d="..."/>
+    </g>
+</svg>
+
+@@@
+
+<svg xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <path display="none" d="..." id="android" data-image="icon"/>
+    </g>
+</svg>
+
+@@@
+
+{"attributes":[{"id":"android"},{"data-image":"icon"}]}
