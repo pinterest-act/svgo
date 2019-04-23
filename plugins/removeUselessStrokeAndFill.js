@@ -15,7 +15,7 @@ exports.params = {
 
 var shape = require('./_collections').elemsGroups.shape,
     regStrokeProps = /^stroke/,
-    regFillProps = /^fill/, //regFillProps = /^fill-/,
+    regFillProps = /^fill-/,
     styleOrScript = ['style', 'script'];
 
 /**
