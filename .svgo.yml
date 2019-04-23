@@ -35,6 +35,7 @@ plugins:
   - convertColors
   - removeUnknownsAndDefaults
   - removeNonInheritableGroupAttrs
+  - removeFillRule
   - removeUselessStrokeAndFill
   - removeViewBox
   - cleanupEnableBackground
